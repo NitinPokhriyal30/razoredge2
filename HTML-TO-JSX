@@ -1,0 +1,9 @@
+for                         =>                          htmlFor
+image                       =>                          <img src={sliders} className=".." alt=".." />   
+<a>                         =>                          <Link to="/tax_planning" className="..">....</Link>      <---- import { Link } from "react-router-dom"; ----->
+class                       =>                          className=".."
+background-image            =>                          style={{ backgroundImage: `url(${Background})`, }}
+
+e.preventdefault()
+
+src={`http://localhost:5000/images/${value.img}`}

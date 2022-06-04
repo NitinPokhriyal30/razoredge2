@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="160" height="160" viewBox="0 0 160 160">
+  <defs>
+    <filter id="Rectangle_95" x="0" y="0" width="160" height="160" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_26090" data-name="Group 26090" transform="translate(-880 -2052)">
+    <g transform="matrix(1, 0, 0, 1, 880, 2052)" filter="url(#Rectangle_95)">
+      <rect id="Rectangle_95-2" data-name="Rectangle 95" width="130" height="130" rx="15" transform="translate(15 12)" fill="#0a66c2"/>
+    </g>
+    <path id="Icon_ionic-md-hourglass" data-name="Icon ionic-md-hourglass" d="M9,3.375V22.75h.032L9,22.782,22.459,36.193,9,49.636l.032.032H9V69.012H49.392V49.668H49.36l.032-.032L35.933,36.193,49.392,22.782l-.032-.032h.032V3.375Zm33.655,47.95V62.606H15.737V51.325L29.2,37.882ZM29.2,34.521,15.737,21.078V9.623H42.67V21.062Z" transform="translate(930.805 2092.488)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <filter id="Rectangle_98" x="0" y="0" width="128" height="128" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_26177" data-name="Group 26177" transform="translate(-1344 -3461)">
+    <g id="Group_26176" data-name="Group 26176" transform="translate(1359.332 3473)">
+      <g transform="matrix(1, 0, 0, 1, -15.33, -12)" filter="url(#Rectangle_98)">
+        <rect id="Rectangle_98-2" data-name="Rectangle 98" width="98" height="98" rx="15" transform="translate(15 12)" fill="#fff"/>
+      </g>
+    </g>
+    <path id="Path_23407" data-name="Path 23407" d="M3.029,6.988A1.021,1.021,0,0,0,2.024,8.021V41.776q0,.05,0,.1V57.889a1.021,1.021,0,0,0,.291,1.017,1.021,1.021,0,0,0,1,.275H58.18a1.021,1.021,0,1,0,0-2.042H51.033V29.572a1.021,1.021,0,0,0-1.021-1.021H43.886a1.021,1.021,0,0,0-1.021,1.021V57.139H38.781V37.74a1.021,1.021,0,0,0-1.021-1.021H31.634a1.021,1.021,0,0,0-1.021,1.021v19.4H26.529V33.656a1.021,1.021,0,0,0-1.021-1.021H19.381a1.021,1.021,0,0,0-1.021,1.021V57.139H14.276V43.866a1.021,1.021,0,0,0-1.021-1.021H7.129a1.021,1.021,0,0,0-1.021,1.021V57.139H4.066V42.282L22.787,25.791l8.523,7.035a1.021,1.021,0,0,0,1.344-.044L48.991,17.615v1.747a1.021,1.021,0,1,0,2.042,0V15.405a1.021,1.021,0,0,0-1.005-1.161v0a1.021,1.021,0,0,0-.136.008H45.928a1.021,1.021,0,1,0,0,2.042h1.484L31.921,30.684l-8.5-7.023a1.021,1.021,0,0,0-1.324.024L4.066,39.563V8.021A1.021,1.021,0,0,0,3.029,6.988Zm41.878,23.6h4.084V57.139H44.907ZM20.4,34.677h4.084V57.139H20.4Zm12.252,4.084h4.084V57.139H32.655ZM8.15,44.887h4.084V57.139H8.15Z" transform="translate(1377.012 3491.41)" fill-rule="evenodd"/>
+  </g>
+</svg>
